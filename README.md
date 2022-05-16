@@ -8,7 +8,7 @@ I graduated high school math-and-science class, so when I decided to study philo
 
 WHAT I AM CURRENTLY LEARNING?
 
-I am studing Machine Learning & Data Science. Most of my free time is occupied by working with Python, SQL and different data visualizations tools like Power BI. Sadly, I am an incurable case of someone who needs to know WHY it works, not only HOW (it really gives me headaches sometimes). That's why I also like to read about computing in general, algorithmics and machine learning - a recommendation of a good book related to those topics is always welcome!
+I am studing Machine Learning & Data Science. Most of my free time is occupied by working with Python, SQL and different data visualizations tools like Power BI. Sadly, I am an incurable case of someone who needs to know WHY it works, not only HOW (it really gives me headaches sometimes). That's why I also like to read about mathematics, computing in general, algorithmics and machine learning - a recommendation of a good book related to those topics is always welcome!
 
 <!---
 jarsonX/jarsonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
