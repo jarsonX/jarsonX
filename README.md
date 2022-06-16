@@ -8,7 +8,7 @@ I graduated high school math-and-science class, so when I decided to study philo
 
 WHAT I AM CURRENTLY LEARNING?
 
-I am an aspiring professional data analyst, studing Machine Learning & Data Science at university. Most of my free time is occupied by mastering Python, SQL, data visualization and math skills. Sadly, I am an incurable case of someone who needs to know WHY it works, not only HOW (it really gives me headaches sometimes). That's why I also like to read about computing in general and algorithmics - a recommendation of a good book, video, course etc. related to those topics is always welcome!
+I am an aspiring professional data analyst, studing Machine Learning & Data Science at university. Most of my free time is occupied by mastering Python, SQL, data visualization and math skills. Sadly, I am an incurable case of someone who needs to know WHY it works, not only HOW (it really gives me headaches sometimes, so please don't get me started on deep learning). That's why I also like to read about computing in general and algorithmics - a recommendation of a good book, video, course etc. related to those topics is always welcome!
 
 <!---
 jarsonX/jarsonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
