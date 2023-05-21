@@ -1,4 +1,4 @@
-My name is Jarek, and data is my passion.
+My name is Jarek and data is my passion.
 
 I have experience working with advanced MS Excel, MS Power BI, SQL (mostly MS SQL Server/T-SQL, Snowflake/ANSI-SQL), VBA and Python.
 
