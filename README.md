@@ -1,9 +1,10 @@
-Hey, my name is Jarek and data science is my passion.
+My name is Jarek, and data is my passion.
 
-I graduated high school math-and-science class, so when I decided to study philosophy rather than e.g. engineering, some considered it a ridiculous idea. Yet I had a clear vision for myself and followed it by gaining knowledge in fields of analysis, logic and systems thinking (tip: having a beard or at least liking beards is recommended to study anything related to philosophy). The ability to make sense of the complexity of things by seeking relationships between them, helped me to discover a passion for working with data and numbers. Apart from being, well, a philosopher (which oblige me to have a beard, obviously), I am also an IBM Certified Data Analyst, certified accountant and a Master of Corporate Management. 
+I have experience working with advanced MS Excel, MS Power BI, SQL (mostly MS SQL Server/T-SQL, Snowflake/ANSI-SQL), VBA and Python.
 
-I'm currently studing Machine Learning and Data Science at the universtiy.
+My strength lies in well-rounded education, combining technical and soft skills. I graduated high school with an advanced mathematics profile, earned a master's degree in corporate management, a bachelor's degree in philosophy, and further expanded my education with certificates and postgraduate studies in financial accounting, data analysis and visualization, programming, and data science. I continue to actively develop these competencies.
 
+I'm currently engaged in process reengineering and data reporting projects.
 
 <!---
 jarsonX/jarsonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
