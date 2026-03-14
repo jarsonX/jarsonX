@@ -1,8 +1,10 @@
-I am an analyst and developer specializing in Business Intelligence and Data Science, with experience working in international environments and collaborating closely with business stakeholders.
+BI and data developer specializing in Power BI, SQL and Python.
 
-My background combines a strong analytical foundation with an interdisciplinary education. I completed secondary education with an advanced mathematics profile and hold a master’s degree in corporate management and a bachelor’s degree in philosophy. I further developed my expertise through postgraduate studies and certifications in financial accounting, data analysis, programming, and data science.
+I design data models and analytical solutions while exploring machine learning and AI engineering.
 
-In my day-to-day work, I primarily use Microsoft Power Platform — with a strong focus on Power BI, where I have over five years of experience designing data models, building dashboards, and delivering analytical solutions. I also work with SQL (T-SQL, PL/SQL) and Python. Earlier in my career, I worked extensively with VBA, which strengthened my approach to automation and data-driven problem solving.
+My background spans finance, data science and philosophy (ethics), which shapes how I think about technology, data and AI.
+
+When I'm not working with data or code, I'm usually on a bike or running tabletop RPG sessions.
 
 <!---
 jarsonX/jarsonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
